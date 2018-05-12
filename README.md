@@ -1,2 +1,2 @@
-## Arcane barrage
+## Instant spells
 biu!
